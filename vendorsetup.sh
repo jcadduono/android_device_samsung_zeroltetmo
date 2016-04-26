@@ -1,0 +1,2 @@
+add_lunch_combo omni_zeroltetmo-eng
+add_lunch_combo omni_zeroltetmo-userdebug
